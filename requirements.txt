@@ -3,3 +3,4 @@ OpenAI
 pypdf
 gradio
 groq
+pydantic
