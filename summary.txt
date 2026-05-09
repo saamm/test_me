@@ -1,0 +1,1 @@
+ML-focused data scientist with an MSc in Data Science, transitioning toward research at the intersection of machine learning, AI systems, and computational biology. Experienced in building ML pipelines, working with real-world datasets, and developing LLM-based workflows, with growing focus on applying data-driven methods to biological problems.
